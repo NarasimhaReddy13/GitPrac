@@ -15,4 +15,6 @@ var userName = "Bill";
 // git status
 
 
-// git add . --- or git add fileName/filePath
+// git add . --- or git add fileName/filePath   ( A )
+
+// git commit -m "---"
