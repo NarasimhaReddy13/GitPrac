@@ -18,3 +18,11 @@ var userName = "Bill";
 // git add . --- or git add fileName/filePath   ( A )
 
 // git commit -m "---"
+
+// created a repo in git
+
+// git remote add origin URL
+
+// git status
+
+// git push origin master
